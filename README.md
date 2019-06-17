@@ -2,6 +2,8 @@
 
 tensorflow实现手写数字识别
 
+To view the codes based on `Pytorch`, click [here](https://github.com/Jiachengciel/Kaggle/tree/master/competitions/getting_started/Digit_Recognizer)
+
 ***
 
 |Author| Jiacheng
